@@ -2,6 +2,8 @@
 
 The data set updated daily.
 
-#### last update: 2020/03/23
+#### last update: 2020/03/24
 
 * last data updated provinces: 2020/03/22 
+
+* Iran will not update the provinces dataset from date 22 March 2020.
