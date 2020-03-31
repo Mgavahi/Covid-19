@@ -2,7 +2,7 @@
 
 The data set updated daily.
 
-#### last update: 2020/03/29
+#### last update: 2020/03/30
 
 * last data updated provinces: 2020/03/22 
 
